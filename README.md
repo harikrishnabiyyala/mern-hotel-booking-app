@@ -25,9 +25,10 @@
 1. playWrite
 
 ### Deployment
-1. [Render.com](https://Render.com)
 
----
+[Render.com](https://Render.com)
+
+
 
 # Setting Up the MERN Booking App
 
