@@ -1,27 +1,33 @@
 
-## Project Details
+# Project Details
 
 ### Front End
+
 1. React Js
 2. TypeScript
 3. Tailwind CSS
 
 ### Functionalities
+
 1. Authentication with JWT and http cookie
 2. Advance Searching, sorting , filtering using React Query and React Hook Form
 
 ### Back End
+
 1. Node Js
 2. Express Js
 
 ### DataBase
+
 1. Mongo DB (Dev DB and Test DB)
 
-### integrations 
+### integrations
+
 1. Cloudinary ( image storage )
 2. Stripe (payment GateWay)
 
 ### E2E Tests
+
 1. playWrite
 
 ### Deployment
