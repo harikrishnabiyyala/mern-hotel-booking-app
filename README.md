@@ -12,7 +12,7 @@
 
 ### Back End
 1. Node Js
-2. React Js
+2. Express Js
 
 ### DataBase
 1. Mongo DB (Dev DB and Test DB)
