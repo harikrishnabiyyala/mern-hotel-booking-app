@@ -112,7 +112,7 @@ cd mern-booking-app
 1. **Backend**:
     - Navigate to the `backend` directory.
     - Install dependencies: `npm install`.
-    - Start the server: `npm start`.
+    - Start the server: `npm run dev`.
 
 2. **Frontend**:
     - Open a new terminal and navigate to the `frontend` directory.
@@ -156,3 +156,18 @@ cd mern-booking-app
     - Start the frontend and backend server using the steps above
     - [Using the Playwright extension to run the tests](https://playwright.dev/docs/getting-started-vscode#running-tests)
 
+
+## Demo
+
+https://mern-hotel-booking-app-hefx.onrender.com/
+
+### images
+
+![1](./Demo/1.png)
+![2](./Demo/2.png)
+![3](./Demo/3.png)
+![4](./Demo/4.png)
+![5](./Demo/5.png)
+![6](./Demo/6.png)
+![7](./Demo/7.png)
+![8](./Demo/8.png)
